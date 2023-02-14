@@ -44,7 +44,7 @@
     }
   },
   "storage": {
-    "s3b06fb919": {
+    "kariafifstore": {
       "dependsOn": [],
       "providerPlugin": "awscloudformation",
       "service": "S3"

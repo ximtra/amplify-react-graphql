@@ -18,7 +18,7 @@ export type AmplifyDependentResourcesAttributes = {
     }
   },
   "storage": {
-    "s3b06fb919": {
+    "kariafifstore": {
       "BucketName": "string",
       "Region": "string"
     }

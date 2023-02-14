@@ -1,0 +1,13 @@
+{
+  "resourceName": "kariafifstore",
+  "policyUUID": "cabd0860",
+  "bucketName": "kariafifamplifystoragegraphql",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}
